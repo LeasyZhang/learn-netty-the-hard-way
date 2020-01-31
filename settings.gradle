@@ -1,3 +1,4 @@
 rootProject.name = 'learn-netty-the-hard-way'
 include 'netty-hello-world'
+include 'netty-http'
 
