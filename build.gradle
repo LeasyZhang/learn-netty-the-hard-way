@@ -41,7 +41,7 @@ subprojects {
         }
 
         dependencies {
-            dependency 'io.netty:netty-all:5.0.0.Alpha1'
+            dependency 'io.netty:netty-all:4.1.52.Final'
         }
     }
 }
