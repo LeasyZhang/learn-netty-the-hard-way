@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'com.netty'
+version '1.0.0-SNAPSHOT'
+
+dependencies {
+    implementation('io.netty:netty-all')
+}
