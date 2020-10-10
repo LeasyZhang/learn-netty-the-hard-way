@@ -1,4 +1,5 @@
 rootProject.name = 'learn-netty-the-hard-way'
 include 'redis-client'
 include 'simple-http-server'
+include 'nio-program'
 
